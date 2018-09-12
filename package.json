@@ -10,7 +10,7 @@
     "start": "node app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Colt Steele",
+  "author": "Totti Milan",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.14.1",
